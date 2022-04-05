@@ -26,6 +26,7 @@ p {
 p {
   font-size: 20px;
   text-shadow: 2px 3px 3px #000000e0;
+  color: red;
 }
 
 .keys {
